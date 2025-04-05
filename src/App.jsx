@@ -19,9 +19,10 @@ function App() {
 
   return (
     <>
+          <Hero />
+
           <ImageCarousel/>
 
-      <Hero />
       <About />
       <Services />
       <Contact />
