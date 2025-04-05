@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section {
+  padding: 60px 20px;
+}
+h1, h2 {
+  text-align: center;
+}

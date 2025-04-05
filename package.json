@@ -1,0 +1,19 @@
+{
+  "name": "grace-fitness-site-plain",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "locomotive-scroll": "^4.1.4",
+    "react": "^18.2.0",
+    "react-calendly": "^1.3.1",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  }
+}
