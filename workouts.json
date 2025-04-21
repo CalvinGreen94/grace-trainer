@@ -13,5 +13,15 @@
         "workout_type": "Protein",
         "duration": "30g",
         "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
+    },
+    {
+        "workout_type": "Bench",
+        "duration": "4000",
+        "wallet": "JBPm5H16KZ9V8rGXhm4c4SXNF2UykbffoHtmPD35ef9x"
+    },
+    {
+        "workout_type": " Curls",
+        "duration": "75",
+        "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
     }
 ]
