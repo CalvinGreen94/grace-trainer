@@ -37,9 +37,12 @@ function App() {
   return (
     <ConnectionProvider endpoint="https://api.mainnet-beta.solana.com">
     <WalletProvider wallets={wallets} autoConnect onError={(err) => console.error("Wallet error", err)}>
+
     <WalletModalProvider>
           <div data-scroll-container>
             <WalletConnectButton />
+            
+
             <Hero />
             <ImageCarousel />
             <About />

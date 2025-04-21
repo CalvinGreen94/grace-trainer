@@ -1,7 +1,7 @@
 import React from 'react';
 import { useWallet } from '@solana/wallet-adapter-react';
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
-
+import DonateButton from './Donate'
 const WalletConnectButton = () => {
   const { connected, publicKey, disconnect } = useWallet();
 
@@ -16,6 +16,9 @@ const WalletConnectButton = () => {
         <div>
           <p>Wallet connected: {publicKey?.toBase58()}</p>
           <button onClick={() => disconnect()}>Disconnect Wallet</button>
+          <DonateButton/>
+
+
         </div>
       )}
     </div>
