@@ -23,6 +23,7 @@ export default function Services() {
           <li>
             <h4 data-scroll data-scroll-speed="2">🏋️‍♀️ One-on-one Coaching</h4>
           </li>
+          <li>Protein: </li>
           <li>
             <h4 data-scroll data-scroll-speed="2">🥗 Custom Meal Plans</h4>
           </li>

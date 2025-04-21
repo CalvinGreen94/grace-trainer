@@ -18,7 +18,7 @@ export default function ImageCarousel() {
   }, []);
 
   return (
-    <div data-scroll-container style={{ width: '100%', height: '100vh', overflow: 'hidden' }}>
+    <div data-scroll-container style={{ width: '100%', height: '50vh', overflow: 'hidden' }}>
       <section data-scroll-section style={{ height: '100%', display: 'flex', overflowX: 'auto', scrollSnapType: 'x mandatory', scrollBehavior: 'smooth' }}>
         {/* Horizontal Scrolling Container */}
         <div style={{ display: 'flex', flexWrap: 'nowrap', width: '100%' }}>
