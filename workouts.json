@@ -23,5 +23,10 @@
         "workout_type": " Curls",
         "duration": "75",
         "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
+    },
+    {
+        "workout_type": "Bench",
+        "duration": "50",
+        "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
     }
 ]
