@@ -26,7 +26,7 @@ const EnterWorkoutPage = () => {
     };
 
     try {
-      const response = await fetch('https://workout-api-ashen.vercel.app/workout', {
+      const response = await fetch('https://workout-api-ashen.vercel.app/api/workout', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
