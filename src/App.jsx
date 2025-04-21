@@ -53,12 +53,13 @@ function App() {
                 element={
                   <div data-scroll-container>
                     <WalletConnectButton />
+                    <button className="w-full md:w-auto mt-4">
                     <Link
-                    to="/login"
-                    className="inline-block mt-4 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 text-center"
-                  >
-                    $GRACE Login
-                  </Link>
+                      to="/login"
+                      className="inline-block px-8 py-4 bg-gradient-to-r from-blue-500 to-indigo-600 text-white font-semibold text-lg rounded-lg shadow-md hover:from-blue-600 hover:to-indigo-700 focus:outline-none focus:ring-4 focus:ring-blue-300 transition-all duration-300 ease-in-out"
+                    >
+                      $GRACE Login
+                    </Link></button>
                     <Hero />
 
                     <ImageCarousel />

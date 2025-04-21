@@ -3,5 +3,15 @@
         "workout_type": "Bench",
         "duration": "15",
         "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
+    },
+    {
+        "workout_type": "Bench",
+        "duration": "30",
+        "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
+    },
+    {
+        "workout_type": "Protein",
+        "duration": "30g",
+        "wallet": "HzTQNgmLXK5BcJ4sJhJNows8an9kYbTMLSNaLhrMVRU3"
     }
 ]
